@@ -8,6 +8,7 @@ CivicConnect is a web-based municipal complaint management system that allows ci
 
 - Mohita
 - Inderjit kaur
+- Harshdeep kaur
 
 ## Key Features
 
